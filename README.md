@@ -1,6 +1,6 @@
 # App to ping the places I have been around the world
 
-`Deployed-Page:` [https://github.com/tavaresrafa/my-pings](https://my-pings.vercel.app/)
+`Deployed-Page:` [https://my-pings.vercel.app/](https://github.com/tavaresrafa/my-pings/)
 
 ## Applied Technologies
 
