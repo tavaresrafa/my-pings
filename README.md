@@ -12,6 +12,7 @@ List of main languages and libraries used in this project:
 - Styled-Components
 - Webpack
 - NextJS
+- Leaflet
 - GraphQL
 - GraphCMS
 
